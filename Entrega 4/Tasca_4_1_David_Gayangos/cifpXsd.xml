@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Validado en https://www.liquid-technologies.com/online-xsd-validator-->
+<cifp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="cifp.xsd">
+    <alumne id="2">
+        <nom>David</nom>
+        <llinatges>Gayangos Casado</llinatges>
+        <data_naixement>02-03-1978</data_naixement>
+        <telefon>601601601</telefon>
+        <data_matricula>01-09-2025</data_matricula>
+        <curs>DAM</curs>
+    </alumne>
+    <professor id="20">
+        <nom>Senbei</nom>
+        <llinatges>Noriyaki Toriyama</llinatges>
+        <data_incorporacio>08-04-1981</data_incorporacio>
+        <departament>Electricitat</departament>
+		<assignatura id_assignatura="201">
+			<nom_assignatura cicle="SMX">Sistemes</nom_assignatura>
+		</assignatura>
+    </professor>
+</cifp>

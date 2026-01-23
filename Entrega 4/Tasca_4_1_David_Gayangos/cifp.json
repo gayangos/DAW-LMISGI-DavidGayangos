@@ -1,0 +1,27 @@
+{
+  "alumne": [
+    {
+      "id": 1,
+      "nom": "David",
+      "llinatges": "Gayangos Casado",
+      "data_matricula": "01-09-2025",
+      "curs": "DAM"
+    }
+  ],
+  "professor": [
+    {
+      "id": 10,
+      "nom": "Senbei",
+      "llinatges": "Norimaki Toriyama",
+      "data_incorporacio": "08-04-1981",
+      "departament": "Informatica",
+      "assignatura": [
+        {
+          "id_assignatura": 101,
+          "nom_assignatura": "Programació",
+          "cicle": "DAM"
+        }
+      ]
+    }
+  ]
+}

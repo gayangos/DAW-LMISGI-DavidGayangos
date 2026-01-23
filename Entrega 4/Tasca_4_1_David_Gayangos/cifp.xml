@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cifp SYSTEM "cifp.dtd">
+<!--validado en XML Copy Editor-->
+<cifp>
+    <alumne id="1">
+        <nom>David</nom>
+        <llinatges>Gayangos Casado</llinatges>
+        <data_naixement>02-03-1978</data_naixement>
+        <correu>gayangos@gmail.com</correu>
+        <data_matricula>01-09-2025</data_matricula>
+        <curs>DAM</curs>
+    </alumne>
+
+    <professor id="1">
+        <nom>Senbei</nom>
+        <llinatges>Noriyaki Toriyama</llinatges>
+        <data_incorporacio>08-04-1981</data_incorporacio>
+        <departament>Informàtica</departament>
+        <assignatura id_assignatura="101">
+            <nom_assignatura cicle="DAM">Programació</nom_assignatura>
+            <data_inici>01-09-2025</data_inici>
+        </assignatura>
+    </professor>
+</cifp>
