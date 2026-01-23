@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ca">
   <title>Exercici de Sindicació de Continguts: Cotxes</title>
   <link href="https://paucasesnovescifp.cat/" rel="alternate"/>
-  <link href="https://paucasesnovescifp.cat/feed.atom" rel="self"/>
+  <link href="https://gayangos.github.io/DAW-LMISGI-DavidGayangos/Entrega%204/Tasca_4_2_David_Gayangos/coches.atom" rel="self"/>
   <subtitle>ÚLTIMES NOTÍCIES SOBRE EL MÓN DEL MOTOR</subtitle>
   <updated>2024-11-15T12:00:00Z</updated>
-  <id>https://paucasesnovescifp.cat/feed.atom</id>
+  <id>https://gayangos.github.io/DAW-LMISGI-DavidGayangos/Entrega%204/Tasca_4_2_David_Gayangos/coches.atom</id>
   <author>
     <name>Motor News</name>
   </author>
