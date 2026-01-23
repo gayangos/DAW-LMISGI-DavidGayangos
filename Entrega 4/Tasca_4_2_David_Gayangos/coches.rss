@@ -2,7 +2,7 @@
   <channel>
     <title>Exercici de Sindicació de Continguts: Cotxes</title>
     <link>https://paucasesnovescifp.cat/</link>
-    <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/gayangos/DAW-LMISGI-DavidGayangos/refs/heads/main/Entrega%204/Tasca_4_2_David_Gayangos/coches.rss" />
+    <atom:link rel="self" type="application/rss+xml" href="https://gayangos.github.io/DAW-LMISGI-DavidGayangos/Entrega%204/Tasca_4_2_David_Gayangos/coches.rss" />
 
     <description>ÚLTIMES NOTÍCIES SOBRE EL MÓN DEL MOTOR</description>
     <language>ca</language>
@@ -26,3 +26,4 @@
   </channel>
 
 </rss>
+
