@@ -1,1 +1,3 @@
-Carpeta para práctica 4
+Validaciones en:
+https://www.jsonschemavalidator.net/
+https://www.liquid-technologies.com/online-xsd-validator

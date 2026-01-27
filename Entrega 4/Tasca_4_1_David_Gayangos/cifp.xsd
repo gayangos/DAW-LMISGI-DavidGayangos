@@ -57,7 +57,7 @@
                             </xs:element>
 
                         
-                            <xs:element name="assignatura" minOccurs="0" maxOccurs="unbounded">
+                            <xs:element name="assignatura" minOccurs="1" maxOccurs="unbounded">
                                 <xs:complexType>
                                     <xs:sequence>
 
