@@ -8,7 +8,7 @@
         <data_naixement>02-03-1978</data_naixement>
         <telefon>601601601</telefon>
         <data_matricula>01-09-2025</data_matricula>
-        <curs>DAM</curs>
+        <cicle>DAM</cicle>
     </alumne>
     <professor id="20">
         <nom>Senbei</nom>
