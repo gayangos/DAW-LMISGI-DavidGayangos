@@ -16,7 +16,7 @@
                             <xs:element name="telefon" type="xs:string" minOccurs="0"/>
                             <xs:element name="adreça" type="xs:string" minOccurs="0"/>
                             <xs:element name="data_matricula" type="xs:string"/>
-                            <xs:element name="cicle">
+                            <xs:element name="curs">
                                 <xs:simpleType>
                                     <xs:restriction base="xs:string">
                                         <xs:enumeration value="DAM"/>
